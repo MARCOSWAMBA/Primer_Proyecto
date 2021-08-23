@@ -1,0 +1,5 @@
+Ayuda de Git Bash = Titulo = 
+
+un texto cualquiera
+
+COPIA____COPIA_____
